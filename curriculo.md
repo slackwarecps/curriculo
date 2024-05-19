@@ -517,6 +517,16 @@ Engineering, Tecnologia da Informação · (março de 2024 - março de 2025)
 - Design thinking
 - Desenvolvimento de back-end
 - Artificial Intelligence
+- LiderançaTécnica  
+- AWS 
+- DesenvolvimentoSoftware 
+- CloudComputing 
+- DevOps 
+- Java 
+- ArquiteturaDeSoluções 
+- SoluçãoDeProblemas 
+- Comunicação 
+- VisãoEstratégica
 
 ---
 
