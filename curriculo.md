@@ -536,9 +536,59 @@ Engineering, Tecnologia da Informação · (março de 2024 - março de 2025)
 
 ---
 
-## Certifications
-- Angular parte 3: upload, build e novos componentes
-- Observabilidade: Coletando Métricas de uma Aplicação com Prometheus
-- Certificação Java SE 7 Programmer I: O básico de Java
-- Java e Domain Driven Design: Apresentando os Conceitos
-- Azure: Gerencie Kubernetes
+## Licenças e Certificados
+
+- Generative AI on AWS Essentials (Business) | mar de 2024
+- Machine Learning Classificação com SKLearn | jan de 2024
+- Machine Learning: classificação por trás dos panos | jan de 2024
+- AWS Partner: Accreditation (Technical) | dez de 2023
+- AWS Sales Acredited Partner | dez de 2023
+- Security Champion | out de 2023
+- AWS Certified Developer – Associate | jul de 2023
+- AWS Certified Cloud Practitioner | mai de 2023
+- AWS Certified Cloud Practitioner (CLF) | mai de 2023
+- Kafka: Fast delegate, evolução e cluster de brokers | mar de 2023
+- O guia completo do investidor - fundos imobiliários | jan de 2023
+- ANGULAR 14: APLIQUE OS CONCEITOS E DESENVOLVA SEU PRIMEIRO CRUD | dez de 2022
+- GOOGLE DATA STUDIO: ACESSANDO O MYSQL | out de 2022
+- GOOGLE DATA STUDIO: EXPLORANDO FERRAMENTA | out de 2022
+- INFRAESTRUTURA COMO CÓDIGO: SEPARANDO AMBIENTES NA AWS COM ANSIBLE E TERRAFORM | set de 2022
+- Terraform: automatize a infraestrutura na nuvem | set de 2022
+- AMAZON CLOUD FRONT E ROUTE53: DISTRIBUA OS SEUS ARQUIVOS E CRIE SEU PRÓPRIO DOMÍNIO | jul de 2022
+- AWS SQS: MENSAGERIA E DESACOPLAMENTO DE SISTEMAS | jul de 2022
+- AZURE: GERENCIE KUBERNETES COM AKS E ACR | jul de 2022
+- DESIGN PATTERNS EM JAVA I: BOAS PRÁTICAS DE PROGRAMAÇÃO | jul de 2022
+- GOOGLE KUBERNETES ENGINE | jul de 2022
+- GOOGLE KUBERNETES ENGINE: AVANÇANDO COM GKE | jul de 2022
+- JAVA E DOMAIN DRIVEN DESIGN: APRESENTANDO OS CONCEITOS | jul de 2022
+- Java e Clean Architecture: descomplicando arquitetura de software | jul de 2022
+- Java e Clean Architecture: descomplicando arquitetura de software | jul de 2022
+- KUBERNETES NA DIGITAL OCEAN: GERENCIANDO APLICAÇÕES CONTEINERIZADAS | jul de 2022
+- KUBERNETES: DEPLOYMENTS, VOLUMES E ESCALABILIDADE | jul de 2022
+- KUBERNETES: DEPLOYMENTS, VOLUMES E ESCALABILIDADE | jul de 2022
+- KUBERNETES: PODS, SERVICES E CONFIGMAPS | jul de 2022
+- MAVEN: GERENCIAMENTO DE DEPENDÊNCIAS E BUILD DE APLICAÇÕES JAVA | jul de 2022
+- MICROSSERVIÇOS NA PRÁTICA: ENTENDENDO A TOMADA DE DECISÕES | jul de 2022
+- MICROSSERVIÇOS NA PRÁTICA: IMPLEMENTANDO COM JAVA E SPRING | jul de 2022
+- GIT E GITHUB: CONTROLE E COMPARTILHE SEU CÓDIGO | jun de 2022
+- GIT E GITHUB: ESTRATÉGIAS DE RAMIFICAÇÃO, CONFLITOS E PULL REQUESTS | jun de 2022
+- MICROSSERVIÇOS: EXPLORANDO OS CONCEITOS | jun de 2022
+- MICROSSERVIÇOS: PADRÕES DE PROJETO | jun de 2022
+- MONITORAMENTO: PROMETHEUS, GRAFANA E ALERTMANAGER | jun de 2022
+- NGINX PARTE 2: PERFORMANCE, FASTCGI E HTTPS | jun de 2022
+- OBSERVABILIDADE: COLETANDO MÉTRICAS DE UMA APLICAÇÃO COM PROMETHEUS | jun de 2022
+- SWAGGER: DOCUMENTANDO SUAS APIS | jun de 2022
+- ANGULAR E RXJS: PROGRAMAÇÃO REATIVA | mai de 2022
+- ANGULAR: AVANÇANDO COM TESTES AUTOMATIZADOS | mai de 2022
+- ANGULAR: AVANÇANDO NO DESIGN DE COMPONENTES COM ACESSIBILIDADE | mai de 2022
+- ANGULAR: CONTROLE O FLUXO DE NAVEGAÇÃO | mai de 2022
+- ANGULAR: DESIGN DE COMPONENTES COM ACESSIBILIDADE | mai de 2022
+- ANGULAR: TESTES AUTOMATIZADOS COM JASMINE E KARMA | mai de 2022
+- Angular: boas práticas em arquiteturas e formulários | mai de 2022
+- Formação ANGULAR | mai de 2022
+- JAVA SERVLET: AUTENTICAÇÃO, AUTORIZAÇÃO E O PADRÃO MVC | abr de 2022
+- JAVA SERVLET: FUNDAMENTOS DA PROGRAMAÇÃO WEB JAVA | abr de 2022
+- Certificação Java SE 7 Programmer I: O básico de Java | jul de 2020
+- Kafka: Introdução a streams em microsserviços | jul de 2020
+- ANGULAR PARTE 1: FUNDAMENTOS | jun de 2020
+- Angular parte 2: Autenticação, Forms e lazy loading | jun de 2020
