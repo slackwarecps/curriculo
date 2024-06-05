@@ -1,4 +1,4 @@
-## Carta de Apresentação para Fabio Pereira|  Tech Manager | Principal Architect 
+## Carta de Apresentação para Fabio Pereira |  Tech Manager | Principal Architect 
 
 Querido gerente de contratação,
 Estou animado para me candidatar ao cargo de Principal Arquiteto de Soluções / Tech Manager na sua Empresa. Com mais de 10 anos de experiência como Arquiteto e Tech Manager, estou confiante em minha capacidade de aproveitar meu conhecimento técnico e habilidades de liderança para impulsionar soluções inovadoras e entregar resultados excepcionais.
