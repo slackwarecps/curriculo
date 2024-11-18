@@ -17,10 +17,21 @@ Campinas, São Paulo, Brasil
 ## Experiencias Profissionais
 
 ### Zup Innovation
-3 anos 11 meses
+4 anos 5 meses
+
+#### Techlead | Porto Seguro | Squad Pix Pessoa Fisica
+junho de 2023 - Present (6 meses)
+Remoto
+Gestão de pessoas, entrevista e identificação de talentos no mercado como QAs, Frontends, iOS, Android e Especialistas. Desenho de Soluções no contexto do pix como simulação, tranferências, contatos, Reivindicação e gestão de chaves PIX. Integração com BAAS do Itaú e modernização de Ledger Bancário legado. Gestão financeira, Faturamento de Squads e acompanhamento de carreiras através de mentoria, Criação e Gestão do Chapter de Backend e planejamento Estratégico. Análise de Performance e latência de transações, Desenho de solução e acompanhamento teécnico de implantação de monitoramento e observabilidade de APIS com stack Spring Boot, Grafana, AppDynamics e Opensearch na AWS.
+
+#### Arquiteto de soluções | Porto Seguro | Porto Negócios CCM
+mai de 2024 - 1 mês
+São Paulo, São Paulo, Brasil · Presencial
+Projeto estratégico, tático e pontual para Criação de Arquitetura de Transição. Discovery e Inception de troca do CRM Atual do Time de Corretores da Porto pelo Dynamics da Microsoft. Geração de Documentação C4 Model, Google Design Docs, requisitos funcionais e não funcionais e desenho de Solução Macro e Orientador técnico das reuniões entre Arquitetos de Solução, Arquitetos Corporativos , Especialistas e Techleads da Porto para fechar a Documentação Tecnica do Discovery do projeto na Porto Negócios.
+
 
 #### Techlead | Porto Seguro | Vistoria Previa
-junho de 2023 - Present (1 ano)
+junho de 2023 - 11 meses
 Campinas e Região
 Liderança e Gestão: Como Tech Lead, abracei um espectro amplo de
 responsabilidades que vão além do desenvolvimento técnico, mergulhando
