@@ -1,7 +1,7 @@
 
 # Fabio Pereira
 
-**Solutions Architect | Tech Manager | Tech Lead | Lifelong learner | 5x AWS Certified | Java**  
+**Tech Manager | Lifelong learner | 5x AWS Certified | Java**  
 Campinas, São Paulo, Brasil
 
 ---
