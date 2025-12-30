@@ -558,7 +558,12 @@ Engineering, Tecnologia da Informação · (março de 2024 - março de 2025)
 ---
 
 ## Licenças e Certificados
-
+- Flutter: aplicando integração contínua (CI) | mar 2025
+- Flutter: automatizando o projeto com entrega contínua (CD) | mar 2025
+- Flutter: distribuindo apps Androids com entrega contínua (CD) | mar 2025
+- Flutter: entendendo comunicação HTTP e utilizando Web API |  mar 2025
+- BDD e Java: Behavior Driven Development com Cucumber | fev 2025 
+- Flutter: aplicando testes de unidade, de Widget e Mocks | mar 2025 
 - Generative AI on AWS Essentials (Business) | mar de 2024
 - Machine Learning Classificação com SKLearn | jan de 2024
 - Machine Learning: classificação por trás dos panos | jan de 2024
