@@ -17,7 +17,7 @@ Campinas, São Paulo, Brasil
 ## Experiencias Profissionais
 
 ### Zup Innovation
-4 anos 5 meses
+5 anos 6 meses
 
 #### Techlead | Porto Seguro | Squad Pix Pessoa Fisica
 junho de 2023 - Present (1 ano e 7 meses)
