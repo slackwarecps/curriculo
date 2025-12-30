@@ -20,9 +20,19 @@ Campinas, São Paulo, Brasil
 4 anos 5 meses
 
 #### Techlead | Porto Seguro | Squad Pix Pessoa Fisica
-junho de 2023 - Present (6 meses)
+junho de 2023 - Present (1 ano e 7 meses)
 Remoto
-Gestão de pessoas, entrevista e identificação de talentos no mercado como QAs, Frontends, iOS, Android e Especialistas. Desenho de Soluções no contexto do pix como simulação, tranferências, contatos, Reivindicação e gestão de chaves PIX. Integração com BAAS do Itaú e modernização de Ledger Bancário legado. Gestão financeira, Faturamento de Squads e acompanhamento de carreiras através de mentoria, Criação e Gestão do Chapter de Backend e planejamento Estratégico. Análise de Performance e latência de transações, Desenho de solução e acompanhamento teécnico de implantação de monitoramento e observabilidade de APIS com stack Spring Boot, Grafana, AppDynamics e Opensearch na AWS.
+Realizei gestão de pessoas, conduzindo entrevistas e identificação de talentos do mercado (QAs, Frontend, iOS, Android e Especialistas), fortalecendo a composição e a performance das squads.
+
+Estruturei e desenhei soluções no contexto do PIX (MED, PIX Parcelado, Pix Automatico, simulação, latencia das transferências, contatos, reivindicação e gestão de chaves), garantindo conformidade com regulatórios do Bacen.
+
+Liderei a integração com BaaS do Itaú e a modernização do Ledger Bancário legado.
+
+Gerenciei aspectos financeiros das squads, incluindo faturamento, planejamento estratégico e acompanhamento de carreiras por meio de mentoria e liderança do Chapter de Backend.
+
+Conduzi análises de performance e latência de transações, além do desenho e acompanhamento técnico da implantação de monitoramento e observabilidade de APIs utilizando Spring Boot, Grafana, AppDynamics e OpenSearch na AWS.
+
+Ferramentas: Terraform, Spring Boot, Grafana, AppDynamics, OpenSearch, AWS
 
 #### Arquiteto de soluções | Porto Seguro | Porto Negócios CCM
 mai de 2024 - 1 mês
